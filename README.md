@@ -56,8 +56,11 @@ ORDER BY TotalPrice ASC;
 ```sql
 SELECT * FROM accessories;
 ```
+---
 
 ## Visualization
+### PowerBI Dashboard
+()
 
 
 
