@@ -60,7 +60,7 @@ SELECT * FROM accessories;
 
 ## Visualization
 ### PowerBI Dashboard
-()
+[To view the Dashboard, Click Here](https://ibb.co/LzQbQYMW)
 
 
 
