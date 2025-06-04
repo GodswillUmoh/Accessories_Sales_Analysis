@@ -2,12 +2,21 @@
 This is a sales report for accessories products
 
 ---
+## Contents
++ [Project Overview](#Project Overview)
++ [Data Source](#Data Source)
++ [Tools Used](#Tools Used])
++ [Table Outlay](#Table Outlay)
++ [Query Langaues (SQL)](#Query Langaues (SQL))
++ [Visualization](#Visualization)
+
 
 ## Project Overview:
 + This project analyzes the sales of Accessories to uncover insights on sales distribution by various attributes such as Accessories, Bikes and Clothing, Using pivot tables, I explored metrics like total sales by Accessories and country, average income of buyers, gender distribution, and overall revenue. This analysis helps to understand the key factors driving sales in the dataset provided.
 
 
-## Data Source: kaggle.com/dataset
+## Data Source: 
+> www.kaggle.com/dataset
 
 ---
 
