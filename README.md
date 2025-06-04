@@ -63,6 +63,8 @@ SELECT * FROM accessories;
 [To view the Dashboard, Click Here](https://ibb.co/LzQbQYMW)
 
 
+![Screenshot (401)](https://github.com/user-attachments/assets/3c015597-1a14-4ebc-b238-0f9970e7ccfa)
+
 
 
 
