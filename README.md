@@ -24,8 +24,23 @@ _First Three Columns_
 |26/11/2013|	11019|	19	|Youth (<25)|	M|	Canada|	British Columbia|	Accessories|	Bike Racks|	Hitch Rack| - 4-Bike|		8	|45	|120|	360	|950|	590|
 |26/11/2015|	11019|	19|	Youth (<25)	|M	|Canada|	British Columbia|	Accessories|	Bike Racks|	Hitch Rack |- 4-Bike|		8|	45|	120	|360|	950	|590|
 
-## Query Langaues:
-| Some of the query languages to retrieve records are displayed here
+## Query Langaues (SQL):
+> Some of the query languages to retrieve records are displayed here
+```sql
+SELECT * FROM accessories;
+```
+```sql
+SELECT * FROM accessories;
+```
+```sql
+SELECT * FROM accessories;
+```
+```sql
+SELECT * FROM accessories;
+```
+```sql
+SELECT * FROM accessories;
+```
 
 ## Visualization
 
