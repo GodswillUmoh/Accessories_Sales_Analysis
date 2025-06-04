@@ -3,8 +3,8 @@ This is a sales report for accessories products
 
 ---
 ## Contents
-+ [Project Overview](#Project_Overview)
-+ [Data Source](#DataSource)
++ [ProjectOverview](#Project Overview)
++ [Data Source](#Data Source)
 + [Tools Used](#ToolsUsed])
 + [Table Outlay](#TableOutlay)
 + [Query Langaues (SQL)](#QueryLangaues (SQL))
