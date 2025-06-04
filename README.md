@@ -30,13 +30,28 @@ _First Three Columns_
 SELECT * FROM accessories;
 ```
 ```sql
-SELECT * FROM accessories;
+---Calculate Total Revenue by Country---
+SELECT Country, SUM(Revenue) AS TotalRevenue
+FROM accessories
+GROUP BY Country
+ORDER BY TotalRevenue DESC;
 ```
+
 ```sql
-SELECT * FROM accessories;
+---Total sales Query sort by Model---
+SELECT Sub Category, COUNT(Customer ID) AS TotalSales
+FROM Accessories
+GROUP BY Sub Category
+ORDER BY TotalSales DESC;
+
 ```
+
 ```sql
-SELECT * FROM accessories;
+---To Retrieve Minimum Price ---
+SELECT Product Category, SUM(Price) AS TotalPrice
+FROM Accessories
+GROUP BY Product Category
+ORDER BY TotalPrice ASC;
 ```
 ```sql
 SELECT * FROM accessories;
